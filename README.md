@@ -2,7 +2,7 @@
 <h4 align="center">Un desarrollador frontend apasionado de Argentina, comencé 2 años en el mundo del desarrollo de software, así que a partir de ese momento fui aprendiendo muchos lenguajes de programación. Me considero un desarrollador eficiente. Mi sueño es poder viajar y trabajar de forma remota como desarrollador de software✈</h4>
 
  - 🌱 Actualmente estoy aprendiendo **Full Stack Node.Js** 
- - 📫 Cómo contactarme **matutebagni@gmail.com** 
+ - 📫 Cómo contactarme **mattiabagni79@gmail.com** 
 
 >Conéctese conmigo:
 
